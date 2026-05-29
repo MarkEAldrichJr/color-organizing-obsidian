@@ -1,6 +1,6 @@
 {
   "id": "folder-graph-colors",
-  "name": "Folder & Graph Colors",
+  "name": "Folder and Graph Colors",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
   "description": "Set a color for any folder. That color is applied to the folder text in the file explorer and to all graph view nodes for files inside that folder.",
